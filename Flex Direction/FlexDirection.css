@@ -1,0 +1,57 @@
+.contenedor {
+    color: white;
+    border: 5px solid gold;
+    display: flex;
+    flex-direction: column;
+    width: 70px;
+    height: 890px;
+}
+
+.rojo {
+    background-color: #eb4d4b;
+    flex-grow: 1;
+    width: 70px;
+    height: 130px;
+}
+
+.naranja {
+    background-color: #f0932b;
+    flex-grow: 1;
+    width: 70px;
+    height: 130px;
+}
+
+.amarillo {
+    background-color: #f6e58d;
+    flex-grow: 1;
+    width: 70px;
+    height: 130px;
+}
+
+.verde {
+    background-color: #6ab04c;
+    flex-grow: 1;
+    width: 70px;
+    height: 130px;
+}
+
+.azul {
+    background-color: #4834d4;
+    flex-grow: 1;
+    width: 70px;
+    height: 130px;
+}
+
+.indigo {
+    background-color: #30336b;
+    flex-grow: 1;
+    width: 70px;
+    height: 130px;
+}
+
+.morado {
+    background-color: #be2edd;
+    flex-grow: 1;
+    width: 70px;
+    height: 130px;
+}
